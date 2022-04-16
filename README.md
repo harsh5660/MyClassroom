@@ -1,5 +1,5 @@
 # Student Database Record
-Course Objective:
+# Course Objective:
 Student Database Records have become an important factor in the modern education field. This 
 system should help the institution to streamline the administrative task and provide real-time 
 access to the data. Building this system in a C language interface will further help ease 
@@ -12,10 +12,10 @@ curriculum data, student data, and producing outputs supporting the operational 
 These outputs include student cards, subject descriptions, schedules, and management 
 information.
 
-Problem Statement:
+# Problem Statement:
 Student Databse Record is based on the concept of managing student’s record. There’s a login system available for the security purpose in this system, only verified user can freely use its feature. This project is helpful for managing student information by adding, updating, removing, viewing, searching and individual view of each student.
 
-Outcomes:
+# Outcomes:
 Student Database Record can be utilized by instructive establishments to keep up with their 
 understudy records without any problem. Accomplishing this goal is troublesome involving 
 the manual framework as the data is dissipated, can be excess, and gathering important data 
